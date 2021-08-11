@@ -1,0 +1,35 @@
+#nav{
+    position: fixed;
+    z-index:1;
+    width: 100%;
+    height: auto;
+    background:  #343a40;
+}
+#btn{
+    background: #6c757d;
+    color: #343a40;
+}
+#btn:hover{
+    background-color: #343a40;
+    color:  #6c757d;
+}
+#skills{
+    width:100%;
+    background-color: #343a40;
+    color:  #6c757d;
+}
+#img{
+    background-image: url('https://cutewallpaper.org/21/white-hd-wallpaper-1920x1080/White-Abstract-Wallpaper-Picture-Extra-Wallpaper-1080p.png');
+    background-repeat: no-repeat;
+}
+#footer{
+    background-image: url('https://cutewallpaper.org/21/white-hd-wallpaper-1920x1080/White-Abstract-Wallpaper-Picture-Extra-Wallpaper-1080p.png');
+    background-repeat: no-repeat;
+}
+#home{
+    color: #343a40;
+}
+#contact{
+    background:  #343a40;
+    color:#6c757d ;
+}
